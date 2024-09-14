@@ -1,0 +1,4 @@
+# 项目排除路径
+/ncnn-android-yolov8/.gradle/
+/ncnn-android-yolov8/app/build/
+/ncnn-android-yolov8/app/build/intermediates/javac/debug/classes/
